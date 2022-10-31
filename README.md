@@ -1,5 +1,5 @@
 
-# An Autonomous Robot(Rover)
+# An Autonomous Robot (Rover)
 
 The robot uses a simple sensor to avoid obstacles. This kind of system is used in Mars rovers, autonomous cars and the bots built for all kinds of robotics competitions.
 
